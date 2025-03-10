@@ -10,7 +10,7 @@ const Home = () => {
         transition={{ duration: 1 }}
         whileHover={{ scale: 1.05, textShadow: "0px 0px 15px rgba(255,255,255,0.8)" }}
       >
-        Welcome to <br /> Maharayatara's Page
+        Welcome to <br /> Samuel Pardosi's
       </motion.h1>
     </div>
   );
